@@ -1,0 +1,39 @@
+Login form 
+    => Dashboard 
+
+Admin
+a. Class CRUD 
+b. Subjects CRUD
+c. Student CRUD
+d. Teachers CRUD
+e. Marks Entry For exam 
+f. Reporting 
+
+Teacher 
+a. Profile
+b. Mark entry
+
+Student 
+a. Profile
+b. Result
+
+
+Project Articeture
+class 
+    => Classes, PHP file
+config 
+    => functions
+    => config 
+    => init 
+assets 
+    => css 
+    => js 
+    => images
+process 
+    => Controller
+uploads 
+    => Images upload 
+error 
+    => error.log 
+    
+Files 
